@@ -1,5 +1,9 @@
 # ECE444-F2023-Lab5
 
+_This repo is a clone of: https://github.com/mjhea0/flaskr-tdd_
+
+Link to Group Project Test Case (test_following_feed): https://github.com/ECE444-2023Fall/project-1-web-application-design-group20-commitcartel/blob/main/tests/app_test.py#L87-L104
+
 ## Advantages and Disadvantages of Test Driven Development (TDD)
 
 Some of the advantages of Test Driven Development (TDD) include allowing programmers to detect issues and bugs in the code early in the development process. By writing the tests first based on the feature requests/specifications, programmers can develop based on the code’s passability of tests, allowing bugs to be resolved early. Furthermore, using TDD allows for higher quality, easily maintainable and modular code. Since developers are constructing code specifically to pass the tests, it results in well-organized, easy-to-understand code. This also helps the communication in a team environment, making it easier for teammates to understand each other’s code. Other benefits include allowing developers to automate their testing processes, which is more efficient than manual testing procedures. Furthermore, it provides programmers with a higher degree of confidence when deploying code, as they know their code passes corresponding tests. Additionally, by incorporating the testing process throughout the code development process, the testing procedure is not rushed, allowing for a better quality of code. Moreover, this form of testing is highly compatible with Agile methodology, which often works in sprints for large teams. So, it allows specific tests to be completed per sprint, and iterative improvements in later sprints. 
